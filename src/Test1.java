@@ -21,5 +21,6 @@ public static void main(String[] args) throws Exception{
 	out.write(arr);
 	out.close();
 	System.out.println("완료");
+	System.out.println("깃허브등록완료");
 }
 }
